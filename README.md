@@ -1,11 +1,11 @@
-# Static Starter Template
+# Div Welcome Template
 
-This is the starter template for [Static](https://static.devdojo.com).
+This is the welcome template for [Div](https://div.so).
 
-![Static Starter Template Cover Photo](https://raw.githubusercontent.com/static-templates/starter/main/assets/images/cover.jpg)
+![Div Welcome Template Cover Photo](https://raw.githubusercontent.com/projectdiv/welcome/main/assets/images/cover.jpg)
 
-You can install this theme with the [static](https://www.npmjs.com/package/@devdojo/static) new command like so:
+You can install this theme with the [div](https://www.npmjs.com/div) new command like so:
 
 ```
-static new folder-name
+div new folder-name
 ```
